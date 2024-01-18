@@ -2,7 +2,7 @@
 A quick script which will extract the Youtube Channel ID using their username / channel name.
 <br />
 <br />
-<img src="https://github.com/extremesh/yt-channel-id/blob/main/yt-channel-id.png?raw=true" width="70%">
+<img src="https://github.com/extremesh/yt-channel-id/blob/main/yt-channel-id.png?raw=true" width="75%">
 <br />
 <br />
 <b>Script:</b>
