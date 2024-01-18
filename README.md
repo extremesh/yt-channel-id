@@ -7,7 +7,7 @@ A quick script which will extract the Youtube Channel ID using their username / 
 <br />
 <b>Script:</b>
 <br />
-https://mesh.name.my/projects/ytchan.php
+<a href="https://mesh.name.my/projects/ytchan.php" target="_blank">https://mesh.name.my/projects/ytchan.php</a>
 <br />
 <br />
 <br />
