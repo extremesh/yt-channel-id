@@ -7,7 +7,7 @@ A quick script which will extract the Youtube Channel ID using their username / 
 <br />
 <b>Script:</b>
 <br />
-<a href="https://mesh.name.my/projects/ytchan.php" target="_blank">https://mesh.name.my/projects/ytchan.php</a>
+► https://mesh.name.my/projects/ytchan.php
 <br />
 <br />
 <br />
@@ -20,4 +20,4 @@ A quick script which will extract the Youtube Channel ID using their username / 
 <br />
 <br />
 <b>Contact:</b><br />
-https://discord.gg/YsMcCRhKBp
+► https://discord.gg/YsMcCRhKBp
