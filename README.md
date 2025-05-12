@@ -20,8 +20,8 @@ A quick script which will extract the Youtube Channel ID using their username / 
 <br />
 <br />
 <b>Updates (12/05/25):</b><br />
-► Fixed some things in the script
-► Shorter URL usage
+► Fixed some things in the script<br />
+► Shorter URL usage<br />
 <br />
 <br />
 <b>Contact:</b><br />
