@@ -25,4 +25,4 @@ A quick script which will extract the Youtube Channel ID using their username / 
 <br />
 <br />
 <b>Contact:</b><br />
-► https://discord.gg/YsMcCRhKBp
+► https://ramesh.my/contact
