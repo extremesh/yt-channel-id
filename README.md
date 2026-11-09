@@ -19,6 +19,12 @@ A quick script which will extract the Youtube Channel ID using their username / 
 ► <code style="color : gold">https://<i></i>app.ramx.cc/ytchan.php?n=extremesh</code><br />
 <br />
 <br />
+<b>Updates (09/11/26):</b><br />
+► Version 2.1 Released<br />
+► Fixed issue as script was broken, now uses alternative method to get Channel ID<br />
+► Redesigned interface for easier usage<br />
+<br />
+<br />
 <b>Updates (12/05/25):</b><br />
 ► Fixed some things in the script<br />
 ► Shorter URL usage<br />
